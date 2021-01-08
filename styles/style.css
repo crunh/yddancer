@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Liu+Jian+Mao+Cao&display=swap');
+#main p{
+    line-height: 26px;
+    text-indent: 2em; 
+    font-family: SimSun;
+    /* font-size: large; */
+}
+.preface{
+    color:rgb(7, 7, 7);
+    font-family: 'East Sea Dokdo', cursive;
+    /* font-family: KaiTi; */
+}
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #242323;
+    text-shadow: 3px 3px 1px rgb(99, 98, 98);
+}
+h2{
+    text-align: center;
+}
+html {
+    background-color: rgb(11, 10, 24);
+}
+body{
+    /* padding: 10px; */
+    width: 680px;
+    margin: 0 auto;
+    background-color: rgba(220, 200, 150);
+    padding: 0 20px 20px 20px;
+    border: 1px solid rgb(173, 108, 78);
+}
+.author{
+    text-align: right;
+    margin-right: 30px;
+}
